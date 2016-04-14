@@ -1,4 +1,4 @@
-package advanced;
+package textFileTest;
 import java.io.*;
 import java.util.*;
 
