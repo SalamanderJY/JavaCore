@@ -1,5 +1,23 @@
 # JavaExample
-* A number of examples for Java
-* Practice for some features
-* CoreJava I coding Examples
-* CoreJava II coding Examples
+
+* Java_Fundamentals : Core Java, Volume I : Fundamentals
+
+> Java Structue
+
+> Java Programming Environment
+
+> Java Class
+
+> Java Inheritance
+
+> Java Interface
+
+> Java Swing
+
+> Java Exception
+
+> Java Generic Programming
+
+> Java Set
+
+> Java Multithread
